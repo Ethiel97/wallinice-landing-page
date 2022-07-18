@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.translateY {
+  @apply transition md:hover:translate-y-[-2.5rem];
+}
+
+.myButton {
+  @apply inline-block py-3 px-8 text-sm text-white font-medium leading-normal 
+    bg-[#c471ed] hover:bg-red-300 rounded transition duration-200;
+}
