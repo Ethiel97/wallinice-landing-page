@@ -22,7 +22,8 @@ export default function Home() {
                 <div className="relative container px-4 mx-auto">
                     <div className="flex flex-wrap items-center -mx-4">
                         <div className="w-full md:w-3/5 px-4 mb-16 md:mb-0">
-                            <h2 className="mb-10 text-3xl md:text-4xl font-semibold font-heading">Get your Best Image browsing
+                            <h2 className="mb-10 text-3xl md:text-4xl font-semibold font-heading">Get your Best Image
+                                browsing
                                 app for free</h2>
                             <div className="max-w-xl">
                                 <p className="mb-10 text-xl text-gray-500">Wallinice is a mobile app that provides with
@@ -54,7 +55,8 @@ export default function Home() {
                         <Image layout='raw' className="hidden lg:block lg:absolute ml-auto top-0 right-0 lg:mt-64"
                                src={YellowDotRightShield} alt=""/>
                         <div className="max-w-md lg:mx-auto">
-                            <h2 className="mb-10 lg:mb-16 text-3xl md:text-4xl font-semibold font-heading">Top-notch Features</h2>
+                            <h2 className="mb-10 lg:mb-16 text-3xl md:text-4xl font-semibold font-heading">Top-notch
+                                Features</h2>
                             <div className="flex items-start mb-10">
                                 <div className="mt-2 mr-4">
                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none"

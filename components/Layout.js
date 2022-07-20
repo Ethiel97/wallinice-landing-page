@@ -18,11 +18,11 @@ export default function Layout({ children }) {
                 openGraph={{
                     url: 'https://wallinice.app',
                     type: 'website',
-                    title: {appTitle},
+                    title: appTitle,
                     description: appDescription,
                     images: [
                         {
-                            url: 'https://github.com/Ethiel97/dailyq-landing_page/blob/master/assets/images/banner.png',
+                            url: 'https://github.com/Ethiel97/wallify/blob/master/assets/images/banner.jpeg',
                             width: 1920,
                             height: 2420,
                             alt: 'Og Image Alt',
