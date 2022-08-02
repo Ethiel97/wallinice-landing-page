@@ -1,9 +1,9 @@
-# dailyQ
+# wallinice
 
-dailyQ mobile app landing page
+wallinice mobile app landing page
 
 
-![Demo Image](https://github.com/Ethiel97/dailyq-landing_page/blob/master/assets/images/banner.png)
+![Demo Image](https://raw.githubusercontent.com/Ethiel97/wallinice-landing-page/master/assets/images/banner.png)
 
 ## Deploy on your computer
 
@@ -11,7 +11,7 @@ You need to have `nodejs` and `git` installed on your pc for following the intru
 
 First download the repository using
 ```
-git clone https://github.com/ethiel97/dailyq-landing_page
+git clone https://github.com/ethiel97/wallinice-landing-page
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run

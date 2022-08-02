@@ -12,7 +12,7 @@ import YellowDotRightShield from "../assets/zeus-assets/icons/dots/yellow-dot-ri
 
 export default function Home() {
 
-    const appStoreLink = "https://apps.apple.com/app/dailyq-daily-quotes/id1612794994";
+    const appStoreLink = "https://apps.apple.com/app/wallinice/id1636583890";
     const playStoreLink = "https://play.google.com/store/apps/details?id=com.deventhusiast.wallinice";
     return (
         <>
